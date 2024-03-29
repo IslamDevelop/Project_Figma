@@ -1,0 +1,269 @@
+
+
+.head{
+
+  display: inline-block;
+  position: relative;
+}
+
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.text-content {
+  position: absolute;
+  top: 50px;
+  left: 70px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.align{
+
+font-size: 4vw;
+font-family: "Playfair Display" Arial, Helvetica, sans-serif;
+line-height: 5px;
+padding-top: 50px;
+
+}
+.tour {
+  color: white;
+  text-decoration: none;
+}
+
+#color{
+    color: whitesmoke;
+}
+.button1{
+  width: 20vw;
+  height: 5vw;
+   background-color: rgba(60, 220, 255, 1);
+ border: none;
+ border-radius: 100px;
+ font-size: 15px;
+ font-weight: bold;
+}
+.colorbutton1 {
+  color: black;
+  text-decoration: none;
+}
+
+.mont{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+line-height: 30px;
+font-size: 1.5vw;
+font-variant: small-caps;
+
+
+}
+
+.logo{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: absolute;
+  top: 18px;
+  left: 68px;
+  right: 50px;
+}
+
+.sizecontact {
+  font-size: 12px;
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+}
+.imgs {
+  height: 19px;
+  width: 130px;
+}
+.letter{
+  letter-spacing: 1px;
+}
+
+.head2{
+  flex-direction: row;
+  display: flex;
+  justify-content: space-around;
+}
+
+.back2{
+  max-width: 49%;
+  padding-top: 91px;
+  padding-left: 20px;
+  height: 28vw;
+}
+.align2{
+  font-size: 3vw;
+  font-weight: bold;
+  padding-top: 59px;
+  line-height: 45px;
+  font-family: "Playfair Display" Arial, Helvetica, sans-serif;
+}
+.data{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 26vw;
+  color: whitesmoke;
+  bottom: 27vw;
+  position: relative;
+    left: 3vw;
+    font-family: "Playfair Display" Arial, Helvetica, sans-serif;
+}
+.align2a{
+  line-height: 24px;
+    font-size: 15px;
+    bottom: 1vw;
+    position: relative;
+}
+.botton2 {
+  margin-top: 6px;
+    border-radius: 34px;
+    height: 47px;
+    width: 175px;
+    background-color: white;
+    border-color: rgba(72, 222, 255, 1);
+    border-width: 2px;
+    color: rgba(72, 222, 255, 1);
+}
+.form{
+ 
+    margin-top: 77px;
+    display: inline-block;
+  position: relative;
+  height: 35vw;
+}
+.forms{
+  height: 16vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 19vw;
+  position: relative;
+  left: 69vw;
+  bottom: 23vw;
+}
+
+
+.form1{
+  height: 42px;
+  width: 175px;
+  border-radius: 28px;
+  text-align: center;
+   
+}
+.button3 {
+  width: 179px;
+  height: 46px;
+  background-color: rgba(60, 220, 255, 1);
+  border-radius: 34px;
+  font-size: 14px;
+  font-weight: bold;
+  border: rgba(60, 220, 255, 1);
+
+}
+.textlast {
+  width: 26vw;
+  font-size: 15px;
+  position: relative;
+  bottom: 45vw;
+  left: 41vw;
+  line-height: 2vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 23vw;
+}
+
+.textone {
+  font-size: 3vw;
+  font-weight: 900;
+  line-height: 4vw;
+  height: 135px;
+}
+
+.conf {
+  position: relative;
+    width: 277px;
+    bottom: 24vw;
+    left: 70vw;
+    font-size: 10px;
+}
+.lastsection {
+  position: relative;
+  bottom: 34vw;
+  height: 50vw;
+  line-height: 3vw;
+}
+.imglast {
+  height: 27vw;
+  width: 43vw;
+  position: relative;
+  left: 48vw;
+}
+
+.prelast {
+  position: relative;
+  bottom: 29vw;
+  left: 11vw;
+  width: 38vw;
+  font-size: 15px;
+}
+.prelast h1{
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 4vw;
+  margin-bottom: 1vw;
+}
+.prelast button {
+  width: 179px;
+  height: 46px;
+  background-color: white;
+  border-radius: 34px;
+  font-size: 14px;
+  font-weight: bold;
+  color: aqua;
+  border-color: aqua;
+
+}
+.lastdiv {
+  position: relative;
+  width: 19vw;
+  left: 50vw;
+  bottom: 55vw;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  height: 21vw;
+  justify-content: space-between;
+  font-weight: 100;
+}
+.lastdiv div {
+  height: 1vw;
+  line-height: 14px;
+  font-weight: lighter;
+  font-size: 10px;
+}
+.footer {
+  display: flex;
+  height: 99px;
+  width: 100vw;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #F1F2F6;
+  font-size: 11px;
+  position: relative;
+  padding-top: 42px;
+  bottom: 48vw;
+  right: 8px;
+}
+.footer img {
+  height: 23px;
+  padding-inline: 24px;
+  padding-block: 11px;
+  padding-right: 30px;
+}
