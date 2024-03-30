@@ -157,14 +157,16 @@ font-variant: small-caps;
    
 }
 .button3 {
-  width: 179px;
-  height: 46px;
-  background-color: rgba(60, 220, 255, 1);
-  border-radius: 34px;
-  font-size: 14px;
-  font-weight: bold;
-  border: rgba(60, 220, 255, 1);
-
+  width: 180px;
+    height: 42px;
+    background-color: rgba(60, 220, 255, 1);
+    border-radius: 34px;
+    font-size: 14px;
+    font-weight: bold;
+    border: rgba(60, 220, 255, 1);
+    color: black;
+    text-decoration: none;
+    margin-left: 1px;
 }
 .textlast {
   width: 26vw;
@@ -266,4 +268,7 @@ font-variant: small-caps;
   padding-inline: 24px;
   padding-block: 11px;
   padding-right: 30px;
+}
+body {
+  height: 1765px;
 }
